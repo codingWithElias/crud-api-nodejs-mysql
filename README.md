@@ -4,6 +4,16 @@
 ## Full Tutorial
 [On Youtube](https://youtu.be/5eFe33OJPuY)
 
+## Installation
+Navigate into the project directory:
+```
+cd crud-api-nodejs-express-mysql
+```
+
+Install dependencies:
+```
+npm install
+```
 
 ## Features
 + Setting up a Node.js project with Express
