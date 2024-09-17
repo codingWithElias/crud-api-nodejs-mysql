@@ -15,6 +15,12 @@ Install dependencies:
 npm install
 ```
 
+Starting The project
+```
+npm run dev
+```
+
+
 ## Features
 + Setting up a Node.js project with Express
 + Connecting Node.js to a MySQL database
